@@ -8,8 +8,10 @@ Go to your powershell/terminal. Enter
 git clone https://github.com/extremefattypunch/Project-Svarog-Orbital-Public-Lesson-2025/
 ```
 ## Step 3
-Go to visual studio code.
-Find and open the folder "Project-Svarog-Orbital-Public-Lesson-2025" which you just cloned in the location you ran the pervious command
+Go to visual studio code. Download the Julia Extension
+<img width="300" height="270" alt="image" src="https://github.com/user-attachments/assets/adbb5181-0400-40bc-976d-9f127ed06924" />
+
+Next find and open the folder "Project-Svarog-Orbital-Public-Lesson-2025" which you just cloned in the location you ran the pervious command
 
 Then run the file "earth_orbit_acc.jl"
 <img width="725" height="359" alt="image" src="https://github.com/user-attachments/assets/7d103d3c-f734-4d60-8de7-a24ea8faead0" />
